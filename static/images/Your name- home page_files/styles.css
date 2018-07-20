@@ -1,0 +1,39 @@
+h1 {
+	color:blue;
+}
+
+h3 {
+	color:red;
+}
+p {
+	color:darkgreen;
+}
+
+li {
+	color:purple;
+}
+
+html {
+	background:#33B5FF;
+}
+
+ nav button {
+	color:red;
+}
+
+.btn-outline-success {
+	color:white;
+	background:#3371FF;
+	margin:0 5px;
+	border-width:0;
+	outline: none !important;
+	border-color: #3371FF !important;
+}
+
+.btn-outline-success:hover {
+	background: red
+}
+
+.btn-outline-success:focus{
+	box-shadow: none;
+}
